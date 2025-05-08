@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DropStoreBot.Bot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
