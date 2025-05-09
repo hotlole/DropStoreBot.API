@@ -5,6 +5,13 @@
     },
     "Container (Dockerfile)": {
       "commandName": "Docker"
+    },
+    
+      "TelegramBotToken": "YOUR_BOT_TOKEN_HERE",
+    },
+    "ConnectionStrings": {
+      "DefaultConnection": "Host=localhost;Port=5432;Database=dropstorebot;Username=postgres;Password=yourpassword"
     }
+
+
   }
-}
